@@ -1,0 +1,6 @@
+--2024-04-15 23:16:33--  https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/19415404/image/medium-b2b1fe215c4cfdf6f708c035fae18682.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.217.194.248, 16.182.70.0, 52.216.38.24, ...
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.217.194.248|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2024-04-15 23:16:34 ERROR 400: Bad Request.
+
